@@ -21,7 +21,7 @@ Usage
 
 Example usage:
 
-You may have to use a buildpack that will enable setting multi-nuildpacks on your bluemix environment.
+You may have to use a buildpack that will enable setting multi-buildpacks on your bluemix environment.
 
 After some trial and error, [cf-multi-buildpack](https://github.com/pl31/cf-multi-buildpack.git) was my pick.
 
@@ -38,4 +38,6 @@ Then push the app with the `-b https://github.com/pl31/cf-multi-buildpack.git` f
   cf push -b https://github.com/pl31/cf-multi-buildpack.git
   ```
   
-Have some pancakes if it worked ! :)  
+Have some pancakes if it worked ! :) 
+
+If it did not work,open an issue for help..
