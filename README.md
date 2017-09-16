@@ -29,7 +29,7 @@ In this case, you must have a file named `.cfbuildpacks` at the root of your dja
 
 For example:
   ```
-  https://github.com/edge-spatial/heroku-geo-buildpack.git
+  https://github.com/erick-otenyo/cloudfoundry-geo-buildpack.git
   https://github.com/cloudfoundry/python-buildpack.git
   
   ```
